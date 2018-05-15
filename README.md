@@ -1,4 +1,4 @@
-For integration with your WHMCS, Contact us : bhagwansahane89@gmail.com
+For integration with your WHMCS, visit http://logicmaker.in or email us at : support@logicmaker.in
 
 # WHMCS Paddle Payment Gateway
 
@@ -52,4 +52,4 @@ With each webhook (for both Alerts/Events and webhooks used fulfilment) we send 
 We use public/ private key encryption to allow you to verify these requests. The information below should be a step-by-step guide on how to verify a Paddle signature.
 
 
-For integration with your WHMCS, Contact us : bhagwansahane89@gmail.com
+For integration with your WHMCS, visit http://logicmaker.in or email us at : support@logicmaker.in
